@@ -4,7 +4,7 @@ Hi there! I'm Joseph, and this is where I showcase my projects, tools, and exper
 
 ## 🔧 Featured Repository
 
-- [**automation-toolkit**](https://github.com/joseph.lane-96/automation-toolkit)  
+- [**automation-toolkit**](https://github.com/joseph-lane-96/automation-toolkit)  
   A growing collection of scripts and tools designed to simplify repetitive tasks, improve efficiency, and boost productivity.
 
 ## 📦 More Coming Soon...
